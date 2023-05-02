@@ -1,0 +1,22 @@
+# Ignore directories
+/node_modules
+/build
+
+# Ignore files
+.env
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore package-lock.json for npm projects
+package-lock.json
+
+# Ignore .pyc and .pyo files for Python projects
+*.pyc
+*.pyo
+
+# Ignore settings files for various editors and IDEs
+.idea/
+.vscode/
+venv/

@@ -1,0 +1,10 @@
+export const host = `http://127.0.0.1:8000`
+export const loginRoute = `${host}/api/login`
+export const registerRoute = `${host}/api/register`
+export const createRoute = `${host}/api/create`
+export const getMyEventRoute = `${host}/api/getMyEvent`
+export const getAllEventRoute = `${host}/api/getAllEvent`
+export const getMyLikesRoute = `${host}/api/getMyLikes`
+export const addLikeRoute = `${host}/api/addLike`
+export const getMyIdRoute = `${host}/api/getMyId`
+export const deleteLikeRoute = `${host}/api/deleteLike`
